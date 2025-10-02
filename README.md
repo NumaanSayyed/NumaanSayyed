@@ -3,7 +3,7 @@
 💡 **Tech Enthusiast** – Passionate about AI, Blockchain, and Cloud Computing.  
 📺 **Content Creator** – Running a YouTube channel **StayWithHamza**, simplifying complex tech topics.  
 📚 **IT Educator** – Making IT concepts fun and easy to learn.  
-🚀 **Founder of Zome** – Innovating IT solutions for the digital world , Our Website https://www.zome.in/.  
+🚀 **Founder of Zome** – Innovating IT solutions for the digital world , Our Website https://www.zomeagency.com/.  
 
 ---
 
