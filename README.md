@@ -1,4 +1,4 @@
-# 🌟 Hey there, I'm Numan Sayyed! 🚀  
+# 🌟 Hey there, I'm Numan Sayyed! 
 
 💡 **Tech Enthusiast** – Passionate about AI, Blockchain, and Cloud Computing.  
 📺 **Content Creator** – Running a YouTube channel **StayWithHamza**, simplifying complex tech topics.  
