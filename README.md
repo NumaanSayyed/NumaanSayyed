@@ -1,4 +1,4 @@
-# Hey there, I'm Numan Sayyed!
+# Hey there, I'm Numan SD!
 
 Web & App Developer passionate about building practical digital products and exploring technologies like AI, Blockchain, and Cloud Computing.
 
@@ -48,14 +48,6 @@ Web & App Developer passionate about building practical digital products and exp
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ---
 
-## 📊 GitHub Stats:  
-🔥 **My GitHub Journey**  
-![Numan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=numansayyed&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-📈 **Streaks & Languages**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=numansayyed&theme=radical&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=numansayyed&theme=radical&hide_border=false&layout=compact)  
-
----
 
 ### 💬 Dev Wisdom  
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
