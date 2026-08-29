@@ -2,7 +2,7 @@
 
 Web & App Developer passionate about building practical digital products and exploring technologies like AI, Blockchain, and Cloud Computing.
 
-**Content Creator** — Sharing my projects, things I build, tech updates, and interesting trends on my channel **https://youtube.com/@numan_sd?si=oBFZGGGHyyoZnn1B**.
+**Content Creator** — Sharing my projects, things I build, tech updates, and interesting trends on my channel **https://youtube.com/@numan_sd**.
 
 **IT Educator** — Making IT concepts simple and easy to learn.
 
