@@ -21,7 +21,7 @@ I'm a freelance software developer based in Mumbai. I build **web**, **mobile ap
 ## Experience
 
 - **Software Developer (Freelance):** 1.5 years of development work across web and mobile projects
-- **Teaching:** 2 years of experience teaching
+- **Teaching:** 2 years of experience teaching IT subjects.
 
 ## Education
 
