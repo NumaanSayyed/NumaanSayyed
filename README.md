@@ -32,7 +32,7 @@ Diploma + Bachelors
 | Project | What it is |
 | --- | --- |
 | [Carbonfix](https://carbonfix.in/) | Sustainability platform built to help reduce carbon and support nature-related activities |
-| [Qkly](https://play.google.com/store/apps/details?id=com.qkly) | Hyperlocal services app: providers post services for free and customers book what they need |
+| [SD](https://play.google.com/store/apps/details?id=com.qkly) | Hyperlocal services app: providers post services for free and customers book what they need |
 | [Fitivate](https://play.google.com/store/apps/details?id=com.fitivate.app) | Gym activity app with exercise streaks |
 | [Physiopulse Rehab](https://physiopulserehab.com/) | Physiotherapist website, with ads and SEO work |
 | [Antim Sanskar Service](https://antimsanskarservice.in/) | Website built from scratch, with SEO and Google Ads |
